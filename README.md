@@ -1,14 +1,14 @@
 ### Airbnb Analysis
 
-###Situation
+### Situation
 
 The goal of the project was to perform an analysis of the Airbnb dataset and provide details about Airbnb in the New York area.
 
-###Task
+### Task
 
 My mission for this project is to build a dashboard in Tableau where I can showcase the Airbnb details of the New York Area so that it would be helpful for people who are looking for Airbnb in New York. 
 
-###Action
+### Action
 
 - Depending on the user's selection of Neighbourhood groups and the specific neighborhood they want to stay in, I build a dashboard that would help the people in finding:
   1. No.of Airbnbs
@@ -20,7 +20,7 @@ Below is the dashboard that I have created:
 
 ![image](https://github.com/akeni1999/Airbnb-Analysis/assets/66996868/06ad7ee6-99af-4e56-ba16-a0d7bce50006)
 
-Result:
+### Result
 
 From the analysis, the following meaningful insights were observed.
 - In the New York area, there are a total of 48,895 Airbnbs.
