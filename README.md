@@ -1,4 +1,4 @@
-### Airbnb Analysis ( https://public.tableau.com/app/profile/aditya.keni/viz/AirbnbDashboard_16780646080140/AirbnbDashboard )
+### Airbnb Analysis 
 
 ### Situation
 
